@@ -1,0 +1,15 @@
+11/28/2022 - 
+Set up initial project files and components.
+Created backend using Sanity.IO
+Created frontend with tailwind CSS and npx-create-react-app
+installed all packages and dependencies (react router dom/google login/etc)
+Initialized react application in shareme_frontend
+Initialized and imported routing in our app (<Router><App/><Router/>)
+created containers and components folders (one for large multi-component containers 
+and the other for smaller functional components)
+created home and login routes in components (home in containers, login in components)
+added assets folder for images and video and logos
+created initial link between assets and login component to render video as background
+
+Video Link:https://www.youtube.com/watch?v=XxXyfkrP298&t=730s&ab_channel=JavaScriptMastery
+Timestamp:46:27
